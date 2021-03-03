@@ -1,1 +1,1 @@
-# scan-me
+# ScanMe
